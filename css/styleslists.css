@@ -1,0 +1,11 @@
+#wrapper {
+    list-style-type: circle;
+    list-style-type: decimal;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px; 
+    margin-bottom: 100px;
+    font-family: Helvetica, sans-serif;
+    font-size: 16;
+    line-height: 1.5;
+}
